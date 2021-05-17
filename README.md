@@ -1,2 +1,2 @@
-# AN-Email-Boilerplate
-Action Network Email Wrapper
+# AN-Email-Boilerplates
+Action Network Email Wrappers
